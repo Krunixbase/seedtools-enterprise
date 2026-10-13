@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="assets/seedtools-enterprise-social-preview.png" width="220">
+  <img src="assets/seedtools-enterprise-social-preview.png">
 </p>
 
 # SeedTools Enterprise
 
 Documentation-first security framework.
-
----
 
 Current Layers:
 
