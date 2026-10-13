@@ -1,4 +1,4 @@
-# Enterprise_Architecture_Layer
+# Enterprise Architecture Layer
 
 Status: Draft
 
