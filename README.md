@@ -1,6 +1,12 @@
+<p align="center">
+  <img src="assets/seedtools-enterprise-social-preview.png" width="220">
+</p>
+
 # SeedTools Enterprise
 
 Documentation-first security framework.
+
+---
 
 Current Layers:
 
