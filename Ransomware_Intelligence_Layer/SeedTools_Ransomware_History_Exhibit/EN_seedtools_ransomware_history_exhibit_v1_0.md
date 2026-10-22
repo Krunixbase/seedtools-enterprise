@@ -69,7 +69,7 @@ Each category has:
 ---
 
 # 🔵 3. FA‑001 — CTB Locker (2015)
-*(Your artifact — the first exhibit in the history of SeedTools)*
+*(Artifact — the first exhibit in the history of SeedTools)*
 
 The exhibit contains:
 
