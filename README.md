@@ -7,15 +7,15 @@
 
 Documentation-first security framework focused on:
 
-## Current Layers
-- Documentation Layer
-- Deterministic Build Layer
-- Encryption Layer
-- Enterprise Architecture Layer
-- Forensic Layer
-- Governance Layer
-- Ransomware Intelligence Layer
-- Security & Deterministic Test Layer
+## Research Areas
+- Documentation Standards
+- Deterministic Build Systems
+- Encryption History
+- Enterprise Security Architecture
+- Digital Forensic
+- Security Governance
+- Ransomware Intelligence
+- Deterministic Testing
 
 Documentation is currently being prepared.
 Content will be gradually published.
