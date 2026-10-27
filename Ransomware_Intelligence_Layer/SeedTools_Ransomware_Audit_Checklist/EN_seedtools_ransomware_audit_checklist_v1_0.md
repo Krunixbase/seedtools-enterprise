@@ -154,20 +154,21 @@ Links:
 ---
 
 # **📊 Section 8 — Audit Matrix by Family (RX‑001 → RX‑010)**
-`
-| Family | Detection | Isolation | Forensic | Recovery | Hardening | Report |
-|--------|----------|-----------|-----------|------------|------------|-----------|-----------|
-| **CryptoLocker** | standard | standard | basic | full | high | standard |
-| **CryptoWall** | extended | standard | extended | full | high | extended |
-| **CTB Locker** | standard | standard | full | full | high | extended |
-| **Locky** | extended | standard | extended | full | high | extended |
-| **WannaCry** | critical | critical | full | full | critical | critical |
-| **NotPetya** | critical | critical | full | no data | critical | critical |
-| **REvil** | extended | extended | full | full | critical | extended |
-| **Conti** | extended | extended | full | full | critical | extended |
-| **BlackCat** | critical | extended | full | full | critical | extended |
-| **LockBit** | critical | extended | full | full | critical | extended |
-`
+
+
+| Family | Detection | Recovery | Hardening |
+|---------|---------|---------|---------|
+| CryptoLocker | standard | full | high |
+| CryptoWall | extended | full | high |
+| CTB Locker | standard | full | high |
+| Locky | extended | full | high |
+| WannaCry | critical | full | critical |
+| NotPetya | critical | no data | critical |
+| REvil | extended | full | critical |
+| Conti | extended | full | critical |
+| BlackCat | critical | full | critical |
+| LockBit | critical | full | critical |
+
 --
 
 # ⭐ Summary
