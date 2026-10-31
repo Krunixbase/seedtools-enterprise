@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/seedtools-enterprise-social-preview.png" width="500">
+  <img src="assets/seedtools-enterprise.png" width="500">
 </p>
 
 
