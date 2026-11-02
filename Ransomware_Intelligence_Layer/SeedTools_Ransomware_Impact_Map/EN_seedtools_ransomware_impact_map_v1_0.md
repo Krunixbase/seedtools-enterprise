@@ -41,15 +41,55 @@ Each ransomware family is rated in 6 categories:
 
 ---
 
-# **📘 Section 2 — Impact Map (full table)**
+# 📘 Section 2 — Impact Map
 
-| Family | Operational | Financial | Infrastructure | Geographic | Data | Strategic |
-|- ... | **WannaCry** | **very high** | high | **very high** | **global** | encryption | **very high** |
-| **NotPetya** | **catastrophic** | **very high** | **high** | global | destruction | **very high** |
-| **REvil** | high | **very high** | medium | global | leaks | high |
-| **Conti** | high | **very high** | high | global | leaks | high |
-| **BlackCat** | high | high | medium | global | leaks + triple | high |
-| **LockBit** | high | **very high** | high | global | leaks + automation | high |
+### WannaCry
+- Operational: **very high**
+- Financial: high
+- Infrastructure: **very high**
+- Geographic: **global**
+- Data: encryption
+- Strategic: **very high**
+
+### NotPetya
+- Operational: **catastrophic**
+- Financial: **very high**
+- Infrastructure: **high**
+- Geographic: global
+- Data: destruction
+- Strategic: **very high**
+
+### REvil
+- Operational: high
+- Financial: **very high**
+- Infrastructure: medium
+- Geographic: global
+- Data: leaks
+- Strategic: high
+
+### Conti
+- Operational: high
+- Financial: **very high**
+- Infrastructure: high
+- Geographic: global
+- Data: leaks
+- Strategic: high
+
+### BlackCat
+- Operational: high
+- Financial: high
+- Infrastructure: medium
+- Geographic: global
+- Data: leaks + triple
+- Strategic: high
+
+### LockBit
+- Operational: high
+- Financial: **very high**
+- Infrastructure: high
+- Geographic: global
+- Data: leaks + automation
+- Strategic: high
 
 Legend:
 
