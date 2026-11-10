@@ -1,0 +1,21 @@
+SeedTools Deterministic Test — Example Output (v1.0 Enterprise)
+
+Deterministic Signature:
+sig(example_artifact_hash:1;A;2;B;)
+
+Audit Record:
+AuditRecord {
+    episode_id: "episode-001",
+    artifact_hash: "example_artifact_hash",
+    share_count: 2,
+    signature_repr: "sig(example_artifact_hash:1;A;2;B;)",
+    zeroized: true
+}
+
+Status: Success
+
+Notes:
+- This example demonstrates a fully deterministic signature generation.
+- Zeroization confirmed: all temporary buffers were securely wiped.
+- Artifact hash is an example placeholder and does not represent real data.
+- Output is safe for publication in public repositories.
