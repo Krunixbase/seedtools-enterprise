@@ -65,6 +65,6 @@ These are **operational** documents, not formal - no revision required.
 ### **If a document affects security → it has a version.**
 ### **If a document affects workflow → a version is not required.**
 
-This is the foundation of the entire architecture.
+This is the foundation of the entire Krunixbase architecture.
 
 ---
