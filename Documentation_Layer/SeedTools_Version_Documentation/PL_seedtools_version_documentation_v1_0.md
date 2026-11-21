@@ -65,7 +65,7 @@ To są dokumenty **operacyjne**, nie formalne — wersja nie jest wymagana.
 ### **Jeśli dokument wpływa na bezpieczeństwo → ma wersję.**  
 ### **Jeśli dokument wpływa na workflow → wersja nie jest wymagana.**
 
-To jest fundament całej Arrchitektury. 
+To stanowi fundament całej architektury Krunixbase. 
 
 ---
 
